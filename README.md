@@ -12,6 +12,7 @@ Features:
 * A delay is programmed to not make requests to quickly
 * Scraping occurs over more than one page
 * Titles, Prices, and Ratings are gathered
+* Length of arrays are counted
 * Puntuation is removed from the prices
 * Prices are converted from Pounds to USD
 * Prices are rounded once converted to USD
