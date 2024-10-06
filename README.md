@@ -21,3 +21,7 @@ Features:
 * A boxplot of the prices is plotted
 
 ***
+
+# Website:
+For any other analysts who wish to practice or students who wish to learn
+[Books to Scrape](http://books.toscrape.com/catalogue/page-1.html)
