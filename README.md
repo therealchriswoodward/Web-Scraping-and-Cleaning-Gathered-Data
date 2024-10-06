@@ -2,7 +2,9 @@
 Web scraping for book data, and cleaning the gatherings up in a dataframe
 
 ***
-If you would like to jump straight to my notebook: [My Notebook](#https://github.com/therealchriswoodward/Web-Scraping-and-Cleaning-Gathered-Data/blob/main/Selenium%20Practice.ipynb)
+If you would like to jump straight to my notebook:
+
+[My Notebook](#https://github.com/therealchriswoodward/Web-Scraping-and-Cleaning-Gathered-Data/blob/main/Selenium%20Practice.ipynb)
 ***
 
 In this project, I used several libraries to build a web scraping program for gathering book data (Title, Price, Rating)
